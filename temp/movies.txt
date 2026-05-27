@@ -1,2 +1,4 @@
 Bandit;Action
 test;teset2
+Rencontre du 3ème type;Horreur
+Joker;Drame
